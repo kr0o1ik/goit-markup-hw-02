@@ -168,3 +168,19 @@ ul {
 .list-button:focus {
   color: #2196f3;
 }
+
+.projects-name {
+  color: #212121;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+
+.projects-type {
+  color: #757575;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+}
