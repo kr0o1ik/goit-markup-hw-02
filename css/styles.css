@@ -58,8 +58,6 @@ body {
 }
 
 .design-title {
-  width: 696px;
-  height: 120px;
   color: #ffffff;
   font-weight: 900;
   font-size: 44px;
@@ -183,4 +181,19 @@ ul {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
+}
+
+.button-name {
+  font-family: Roboto;
+  width: 200px;
+  height: 50px;
+  background-color: #2196f3;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+  line-height: 1.87;
+  letter-spacing: 0.06em;
+  align-items: center;
+  text-align: center;
 }
